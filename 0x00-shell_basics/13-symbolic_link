@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/symlinks ls
+ls -s /bin/ls ls
